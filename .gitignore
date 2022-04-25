@@ -1,0 +1,11 @@
+# Local python environments
+/venv/
+
+# Exclude testing databases
+/src/weather.db
+
+# IDE settings
+.idea/
+
+# Local trash files
+.DS_Store
