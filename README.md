@@ -48,7 +48,7 @@ OPENWEATHERMAP_API_KEY = '<your_api_key>'
 - Go to the `src` directory and run the following command:
 
 ```sh
-python app.py
+python3 app.py
 ```
 
 ## Stack
